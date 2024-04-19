@@ -1,0 +1,9 @@
+elegantpaper.cls
+*.aux
+*.bbl
+*.fls
+*.log
+*.out
+*.xdv
+*.fdb_latexmk
+*.blg
